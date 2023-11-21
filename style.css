@@ -1,0 +1,35 @@
+.banner{
+    margin: 0; 
+    background-size: cover;
+
+}
+
+.navbar{
+    margin: 0;
+    padding: 0;
+    display: flex; 
+    background-color: black;
+}
+
+.logo{
+    width: 20%;
+    height: 150px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.navbar ul{
+    list-style: none;
+    display: inline-flex;
+    align-items: center;
+    margin: auto;
+    color: white;
+}
+
+.navbar ul li{
+    display: flex;
+    margin-left: 30px;
+    
+}
+
+
